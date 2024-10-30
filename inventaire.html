@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LuckBox</title>
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="style/inventaire.css">
+    <link rel="icon" href="asset/logo.svg">
+    <link rel="manifest" href="data/manifest.json"/>
+</head>
+
+<body>
+    <div id="cursor"></div>
+    <button onclick="darkMode()" id="btnDarkMode" title="Go to top" style="z-index: 101;">🔆</button> 
+    <nav>
+        <div class="nav-logo">
+            <img src="asset/logo.svg" alt="Logo" id="logo">
+        </div>
+        <div class="nav-item">
+            <a href="main.html" class="nav-link">Home</a>
+            <a href="shop.html" class="nav-link">Boutique</a>
+            <a href="inventaire.html" class="nav-link">Historique</a>
+            <a href="formulaire.html" class="nav-link">Contact</a>
+        </div>
+    </nav>
+    <header>
+        <div class="header-bottom">
+            <div class="header-bottom-img">
+                <div class="header-bottom-texte">
+                    <h1>Historique</h1>
+                    <p>Ici, vous pouvez voir l'ensemble des lots que vous avez remporté sur notre site.</p>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main>
+        <label for="filtre_rarete" class="filtre_rarete">Filtrer par type de caisse :</label>
+        <select id="filtre_rarete">
+            <option value="Tous">Tous</option>
+            <option value="Epitech">Epitech</option>
+            <option value="Formation">Formation</option>
+            <option value="Saphir">Saphir</option>
+            <option value="Rubis">Rubis</option>
+        </select>
+        <div id="lots-container" class="inventaire">
+            <script src="./script/inventoryScript.js"></script>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2024 LuckBox. Tous droits réservés.</p>
+    </footer>
+    <!-- Button return top of the page -->
+    <button onclick="topFunction()" id="btnTop" title="Go to top">⭡</button>
+    <script src="./script/main_script.js"></script>
+
+
+</body>
+
+</html>

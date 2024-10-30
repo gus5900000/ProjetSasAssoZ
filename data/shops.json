@@ -1,0 +1,182 @@
+{
+  "mystery_boxes": [
+    {
+      "type": "Epitech",
+      "price": 49.99,
+      "UrlImage": "asset/crates/coffre2.png",
+      "products": [
+        {
+          "name": "T-shirt Epitech",
+          "category": "Epitech",
+          "value": 49.99,
+          "UrlImage": "https://media.discordapp.net/attachments/1301196849985749153/1301197336910757910/gen_30-10-2024_14-52_3.jpg?ex=672399f4&is=67224874&hm=daf410a7aff75a7620740c1b162bf3ec3b36d96c0d9bd93e430ac4f340de8bf5&format=webp&width=662&height=662&"
+        },
+        {
+          "name": "Carnet et stylos Epitech",
+          "category": "Epitech",
+          "value": 49.99,
+          "UrlImage": "https://cdn.discordapp.com/attachments/1299306140592508948/1301196168096780319/image.jpg?ex=672398dd&is=6722475d&hm=64f11f27031259e7788571fbaac736a14640675b6d2bf5ebaa97f785270289e9&"
+        },
+        {
+          "name": "Mug Epitech",
+          "category": "Epitech",
+          "value": 14.99,
+          "UrlImage": "https://media.discordapp.net/attachments/1301196849985749153/1301198006804025427/gen_30-10-2024_14-54_2.jpg?ex=67239a93&is=67224913&hm=b9c404eff80eb93270997779ab4652d6ee0ac0a4a7bda9af46c19cea8b40bbe8&=&format=webp&width=662&height=662"
+        },
+        {
+          "name": "Pull Epitech",
+          "category": "Epitech",
+          "value": 59.99,
+          "UrlImage": "https://media.discordapp.net/attachments/1301196849985749153/1301199505735290920/gen_30-10-2024_15-00_2.jpg?ex=67239bf9&is=67224a79&hm=b43bf102ddd9e44c0a3e9318ccc8aff7fb97ed04d304b814549845b4375bc745&=&format=webp&width=662&height=662"
+        },
+        {
+          "name": "Gourde Epitech",
+          "category": "Epitech",
+          "value": 19.99,
+          "UrlImage": "https://media.discordapp.net/attachments/1301196849985749153/1301199740641214564/gen_30-10-2024_15-01_0.jpg?ex=67239c31&is=67224ab1&hm=bff27d84d09eb7438d193a5339bcc2544aaab0781ab595d2388000c08ed5b92c&=&format=webp&width=662&height=662"
+        },
+        {
+          "name": "Casquette Epitech",
+          "category": "Epitech",
+          "value": 24.99,
+          "UrlImage": "https://media.discordapp.net/attachments/1301196849985749153/1301199989111787540/gen_30-10-2024_15-02_0.jpg?ex=67239c6c&is=67224aec&hm=7be26d832217d998c37eb2f2ae26947a9a0b1a0f6a102383060f2af379d08092&=&format=webp&width=662&height=662"
+        },    
+        {
+          "name": "Sac à dos Epitech",
+          "category": "Epitech",
+          "value": 89.99,
+          "UrlImage": "https://cdn.discordapp.com/attachments/1299306140592508948/1301195995052249159/image.jpg?ex=672398b4&is=67224734&hm=ae453d9520ef5a0ffbf0b58fec673a57f95b396cb73992c06e01106c1184eef0&"
+        }
+      ]
+    },
+    {
+      "type": "Formation",
+      "price": 89.99,
+      "UrlImage": "asset/crates/coffre3.png",
+      "products": [
+        {
+          "name": "Formation Bricolage avec Aymeric",
+          "category": "Formation",
+          "value": 100.00,
+          "UrlImage": "https://cdn.discordapp.com/attachments/1299306140592508948/1301179917441957888/3017DCAC-DDA4-4843-8A38-7241D720B757-removebg-preview.png?ex=672389bb&is=6722383b&hm=b97f0c7a7776f8da3cd7b048fdfb3aee6a2b2263fa128bd8b43fcdfd66bf8ec5&"
+        },
+        {
+          "name": "Formation Militaire avec Clémence",
+          "category": "Formation",
+          "value": 150.00,
+          "UrlImage": "https://cdn.discordapp.com/attachments/1299306140592508948/1301179918280953956/ECCBDEFB-DECE-4C4E-A31D-C11E6CCF2626-removebg-preview.png?ex=672389bb&is=6722383b&hm=10ca78ebba5a8ce855a59ff4de92046f0e48a6f80346ee52e383ce400f89fd14&"
+        },
+        {
+          "name": "Formation ChatGPT avec Valentin",
+          "category": "Formation",
+          "value": 80.00,
+          "UrlImage": "https://cdn.discordapp.com/attachments/1299306140592508948/1301179917177847808/6B01E68F-D43C-415B-B545-C15BAFF68FEA-removebg-preview.png?ex=672389bb&is=6722383b&hm=46b6992cbdd2aca92d9aaf7a261c594242587784f8aaae0f1681f28d15582d40&"
+        },
+        {
+          "name": "Formation Création de Song avec Mathéo",
+          "category": "Formation",
+          "value": 200.00,
+          "UrlImage": "https://cdn.discordapp.com/attachments/1299306140592508948/1301179918515699793/EA6F37CE-DBA0-4A1B-A6BB-B52EF01A299C-removebg-preview.png?ex=672389bb&is=6722383b&hm=af06cfcd2e579bbfcf17205fb1470879e0e032e34e0b1e4b25f1872748f77a83&"
+        },
+        {
+          "name": "Formation Serveur/Barman avec CocoPeps",
+          "category": "Formation",
+          "value": 300.00,
+          "UrlImage": "https://cdn.discordapp.com/attachments/1299306140592508948/1301179917974896700/9370DDC2-C8CA-41A2-809A-166E5C242058-removebg-preview.png?ex=672389bb&is=6722383b&hm=b06d8400573796ba3fe375eead163ea63f879b65d0959873c1b9da098fd28e18&"
+        },
+        {
+          "name": "Formation Guitar Hero avec Martin",
+          "category": "Formation",
+          "value": 50.00,
+          "UrlImage": "https://cdn.discordapp.com/attachments/1299306140592508948/1301182662530306150/IMG_0379-removebg-preview.png?ex=67238c49&is=67223ac9&hm=022ea5769e0eee8db4d5fafcca8649a8c5174a175e5d4f4f45364cee8a4c4724&"
+        },
+        {
+          "name": "Formation Devenir RH avec Julie",
+          "category": "Formation",
+          "value": 300.00,
+          "UrlImage": "https://cdn.discordapp.com/attachments/1299306140592508948/1301181901779898378/1554466223691-removebg-preview.png?ex=67238b94&is=67223a14&hm=6ec052ab8a77e87a1d8a17f5eb9b071faa483b1acb39df386f83973b5d100609&"
+        },
+        {
+          "name": "Formation pour faire Iron-Man avec Florian",
+          "category": "Formation",
+          "value": 600.00,
+          "UrlImage": "https://cdn.discordapp.com/attachments/1299306140592508948/1301183857760145521/image-removebg-preview.png?ex=67238d66&is=67223be6&hm=6f314d86c280a0a5a701284e8c69f57a8a4c9c8440cb5dc11cf1d154e5f883be&"
+        },
+        {
+          "name": "Formation Patissier avec Ethan",
+          "category": "Formation",
+          "value": 90.00,
+          "UrlImage": "https://cdn.discordapp.com/attachments/1299306140592508948/1301185157348458576/70844B6B-3ABD-41D8-A0D6-F183B592081A-removebg-preview.png?ex=67238e9c&is=67223d1c&hm=424869b0d0d85fa18b942523b898623e6ef09a3f9684f4ee01bc3cc7b17f14f1&"
+        },
+        {
+          "name": "Formation Dance a une Jambe avec Billy",
+          "category": "Formation",
+          "value": 90.00,
+          "UrlImage": "https://cdn.discordapp.com/attachments/1299306140592508948/1301179917710528522/52BA399A-32EA-44E2-92B9-CAB07812855F-removebg-preview.png?ex=672389bb&is=6722383b&hm=6ab986872ddeb4c9fadc04809b872a0deb1f5f8378e755efbafc39151921371c&"
+        }
+      ]
+    },
+    {
+      "type": "Saphir",
+      "price": 79.99,
+      "UrlImage": "asset/crates/coffre7.png",
+      "products": [
+        {
+          "name": "Veste en jean",
+          "category": "Mode",
+          "value": 89.99,
+          "UrlImage": "https://dummyimage.com/300x300/1e90ff/fff.png&text=Veste+en+Jean"
+        },
+        {
+          "name": "Tasse en céramique",
+          "category": "Maison",
+          "value": 19.99,
+          "UrlImage": "https://dummyimage.com/300x300/ffcc00/fff.png&text=Tasse+en+C%C3%A9ramique"
+        },
+        {
+          "name": "Chaussettes en laine",
+          "category": "Mode",
+          "value": 15.99,
+          "UrlImage": "https://dummyimage.com/300x300/a52a2a/fff.png&text=Chaussettes+en+Laine"
+        },
+        {
+          "name": "Lampe de bureau LED",
+          "category": "Maison",
+          "value": 39.99,
+          "UrlImage": "https://dummyimage.com/300x300/ffa500/fff.png&text=Lampe+LED"
+        }
+      ]
+    },
+    {
+      "type": "Rubis",
+      "price": 99.99,
+      "UrlImage": "asset/crates/coffre5.png",
+      "products": [
+        {
+          "name": "Montre intelligente",
+          "category": "Électronique",
+          "value": 149.99,
+          "UrlImage": "https://dummyimage.com/300x300/ff4500/fff.png&text=Montre+Intelligente"
+        },
+        {
+          "name": "Set de couteaux de cuisine",
+          "category": "Maison",
+          "value": 79.99,
+          "UrlImage": "https://dummyimage.com/300x300/8b0000/fff.png&text=Set+Couteaux"
+        },
+        {
+          "name": "T-shirt en coton bio",
+          "category": "Mode",
+          "value": 24.99,
+          "UrlImage": "https://dummyimage.com/300x300/3cb371/fff.png&text=T-shirt+Bio"
+        },
+        {
+          "name": "Chargeur sans fil",
+          "category": "Électronique",
+          "value": 29.99,
+          "UrlImage": "https://dummyimage.com/300x300/7b68ee/fff.png&text=Chargeur+Sans+Fil"
+        }
+      ]
+    }
+  ]
+}
